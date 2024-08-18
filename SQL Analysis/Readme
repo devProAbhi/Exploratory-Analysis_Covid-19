@@ -2,7 +2,7 @@
   (which is also uploded in this repo)*/
 
 we have 4 files in the folder (SQL Analysis)
--> dataset of covid 19, we have only cleaned data and just analysing for only 1 day data, as it was not possible to load this 3 year data of all countries in MySQL 
+-> dataset of covid 19, we have only cleaned data and just analysing for only 1 day data, official dataset have 3 year covid cases of all countries - credit: https://www.kaggle.com/datasets/imdevskp/corona-virus-report 
 -> sql file which have queries
 -> queries all written in txt file
 -> readme file 
